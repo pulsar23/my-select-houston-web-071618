@@ -12,6 +12,8 @@ def my_select(collection)
     end 
     i+=1 
  end #while
+ 
  new_array
+ 
 end #my_select
 
