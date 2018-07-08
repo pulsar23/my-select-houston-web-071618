@@ -15,5 +15,3 @@ def my_select(collection)
  new_array
 end #my_select
 
-
-end #my_select
